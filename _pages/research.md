@@ -1,7 +1,6 @@
 ---
-permalink: /research/
+permalink: /research.html
 title: "Research"
-toc: true
 ---
 
 Published articles:
