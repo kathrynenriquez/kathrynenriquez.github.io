@@ -1,6 +1,7 @@
 ---
 title: Kathryn Enriquez
 subtitle: Education Policy and Leadership Ph.D. Candidate
+author_profile: true
 ---
 <p>I am an Educational Policy and Leadership Ph.D. candidate at Vanderbilt Peabody College where I focus on the intersection of education and student health. I use quantitative methods to study the intersection of education and student health with the intention of informing policy towards improved mental and physical health and academic outcomes. In particular, my current work examines the influences of school-based health centers (SBHCs), the impacts of technology, and long-run trends in student educational outcomes.</p>
 
