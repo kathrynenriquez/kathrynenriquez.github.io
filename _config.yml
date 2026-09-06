@@ -124,12 +124,7 @@ author:
   location         : #"Somewhere"
   email            : "kathrynenriquez@vanderbilt.edu"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
-  googlescholar    : "https://scholar.google.com/citations?user=WSl0Z60AAAAJ"
-  orcid            : "https://orcid.org/0009-0003-4329-6200"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
-      url: "mailto:kathryn.enriquez@vanderbilt.edu"
     - label: "Vanderbilt"
       icon: "fas fa-fw fa-link"
       url: "https://peabody.vanderbilt.edu/person/kathryn-enriquez"
