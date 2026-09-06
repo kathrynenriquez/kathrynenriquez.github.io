@@ -1,5 +1,4 @@
 ---
-title: Kathryn Enriquez
 subtitle: Education Policy and Leadership Ph.D. Candidate
 author_profile: true
 ---
