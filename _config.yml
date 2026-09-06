@@ -132,7 +132,7 @@ author:
       url: "mailto:kathryn.enriquez@vanderbilt.edu"
     - label: "Vanderbilt"
       icon: "fas fa-fw fa-link"
-      url: "https://peabody.vanderbilt.edu/person/kathryn-enriquez"
+      #url: "https://peabody.vanderbilt.edu/person/kathryn-enriquez"
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
       # url: "https://twitter.com/"
@@ -154,14 +154,14 @@ footer:
       url: "mailto:kathryn.enriquez@vanderbilt.edu"
     - label: "Vanderbilt"
       icon: "fas fa-fw fa-link"
-      url: "https://peabody.vanderbilt.edu/person/kathryn-enriquez"
+      #url: "https://peabody.vanderbilt.edu/person/kathryn-enriquez"
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
       # url: "https://twitter.com/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=WSl0Z60AAAAJ"
-  since: "2013"
+  since: #"2026"
 
 
 # Reading Files
