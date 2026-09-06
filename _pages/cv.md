@@ -1,5 +1,5 @@
 ---
-permalink: /cv/
+permalink: /cv.html
 title: "Curriculum Vitae"
 ---
 
