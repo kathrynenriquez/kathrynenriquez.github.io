@@ -1,5 +1,4 @@
 
-remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -13,7 +12,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
